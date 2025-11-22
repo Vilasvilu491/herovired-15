@@ -6,4 +6,4 @@ this is ecommerce app for next generation, this has payment integration from all
 this has top notch added
 </p>
 
-<p>$=&copy 2025 herovired pvt ltd</p>
+<p>$copy; 2025 herovired pvt ltd</p>
